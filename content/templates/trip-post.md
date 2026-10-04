@@ -2,11 +2,13 @@
 title: Post title
 date: YYYY-MM-DD
 tags:
-  - trip-name
+  - east-africa
   - food
 draft: true
 ---
 
-Write here. Link to other posts with [[post-name]].
+Write here. Link to other posts with [[unique-post-filename]].
 
-![Alt text](photo.jpg)
+Photos live in the trip's `images/` folder (create them with `npm run photos`):
+
+![Alt text](../images/photo-name.jpg)

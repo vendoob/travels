@@ -39,6 +39,8 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npx quartz plugin install
+      - name: Check photos (metadata and size)
+        run: node scripts/check-photos.mjs
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact

@@ -1,8 +1,9 @@
 ---
-title: First post (draft)
+title: Nairobi arrival (draft)
 date: 2026-10-04
 tags:
   - east-africa
+  - kenya
 draft: true
 ---
 
