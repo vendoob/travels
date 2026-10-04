@@ -12,11 +12,11 @@ content/
     2026-east-africa/
       index.md                   trip overview
       images/                    processed photos for this trip
-      kenya/ safari/ zanzibar/   optional region folders, each with an index.md
+      nairobi-arrival.md         posts live directly in the trip folder
   templates/trip-post.md         copy this to start a post (not published)
 ```
 
-Tags are for themes across trips (`food`, `wildlife`, `logistics`, country names). Keep post filenames unique across the whole site, because links use shortest-path resolution.
+Tags mark the legs of a trip (`kenya`, `safari`, `zanzibar`) and themes across trips (`food`, `wildlife`, `logistics`). Add a region folder only if a leg grows to many posts. Keep post filenames unique across the whole site, because links use shortest-path resolution.
 
 ## Writing a post
 
